@@ -1,0 +1,2 @@
+node_env_profile_written=1 npm_global_bin=Unknown command: "bin"
+/usr/local/bin
